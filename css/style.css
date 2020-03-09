@@ -1,0 +1,14 @@
+.holidays {
+    text-align: left;
+    font-style: italic;
+
+}
+#bold {
+    font-weight: bold;
+}
+
+li{
+    padding-inline-start: 1%;
+    inline-size: auto;
+}
+
